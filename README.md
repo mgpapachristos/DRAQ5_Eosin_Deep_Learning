@@ -1,5 +1,3 @@
-DOI: 10.5281/zenodo.18357045
-
 Code Files Description:
 
 Retrieve_masks.ipynb: Code that extracts annotations from CZI file into a numpy python file.
