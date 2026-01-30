@@ -27,3 +27,5 @@ background_correction2.py: Code used on Fiji software for performing background 
 background_correction3.py: Code used on Fiji software for performing background correction on the WCB Tissue MicroArray data.
 
 background_correction_stand.py: Code used on Fiji software for performing background correction on the WCB Tissue Slide Cores data.
+
+Compare_masks.ipynb: Code that compares manually transferred annotations (transferred from the sequential H&E to the D&E images), to the annotations by the two expert pathologists on the corresponding synthetic H&E (which are created from the D&E) on a subset of 10 cores (from the WCB TMA).
